@@ -1,15 +1,30 @@
 ---
-description: The Kittycorn Document
-icon: hand-wave
+description: The Kittycorn Protocol Documentation
+icon: cat
 ---
 
-# Welcome Hello World!!
+# Kittycorn Protocol
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Kittycorn is a decentralized exchange and lending protocol. Swap tokens, provide liquidity, and borrow assets — all in one platform.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+## What is Kittycorn?
 
-### Jump right in
+Kittycorn combines an automated market maker (AMM) with a lending protocol, allowing users to trade tokens, earn yield through liquidity provision, and borrow assets using their holdings as collateral.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-bolt">:bolt:</i></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><i class="fa-leaf">:leaf:</i></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><i class="fa-globe-pointer">:globe-pointer:</i></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+## Key Features
 
+- **Swap** — Trade tokens instantly through liquidity pools
+- **Liquidity Provision** — Supply assets to pools and earn trading fees
+- **Liquidity Migration** — Move existing positions from other protocols to Kittycorn
+- **Kittycorn Bank** — Deposit collateral and borrow assets at competitive rates
+- **Liquidation** — Participate in liquidating undercollateralized positions
+
+## Point Reward Program
+
+Kittycorn rewards active users with points for participating in the protocol. Earn points by swapping, providing liquidity, borrowing, and referring friends. Points can be claimed and used within the ecosystem.
+
+## Resources
+
+- [Contract Addresses](resources/contract-addresses.md)
+- [Security](security.md)
+- [FAQ](faq.md)
