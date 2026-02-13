@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Kittycorn Protocol
 
 * [Introduction](kittycorn-protocol/introduction.md)
