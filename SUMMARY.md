@@ -11,12 +11,14 @@
 
 ## Features
 
-* [Swap](features/swap.md)
-* [Add Liquidity / Remove / Migrate](features/add-liquidity-remove-migrate.md)
-* [Kittycorn Bank](features/kittycorn-bank.md)
-* [Deposit / Withdraw Collateral](features/deposit-withdraw-collateral.md)
-* [Borrow / Repay](features/borrow-repay.md)
-* [Liquidate](features/liquidate.md)
+* [Trading](features/trading/README.md)
+  * [Swap](features/trading/swap.md)
+  * [Add / Remove Liquidity](features/trading/add-liquidity-remove-migrate.md)
+* [Lending & Borrowing](features/lending-and-borrowing/README.md)
+  * [Kittycorn Bank](features/lending-and-borrowing/kittycorn-bank.md)
+  * [Deposit / Withdraw Collateral](features/lending-and-borrowing/deposit-withdraw-collateral.md)
+  * [Borrow / Repay](features/lending-and-borrowing/borrow-repay.md)
+  * [Liquidate](features/lending-and-borrowing/liquidate.md)
 
 ## Point Reward Program
 
