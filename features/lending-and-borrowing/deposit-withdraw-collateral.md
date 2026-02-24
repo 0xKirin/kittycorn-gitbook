@@ -1,5 +1,5 @@
 ---
-icon: vault
+icon: box-arrow-down
 ---
 
 # Deposit / Withdraw Collateral
