@@ -38,6 +38,7 @@
 
 * [Contract Addresses](resources/contract-addresses.md)
 * [Liquidator](resources/liquidator.md)
+* [SDK](resources/sdk.md)
 * [Brand Asset](resources/brand-asset.md)
 * [Useful Links](resources/useful-links.md)
 
