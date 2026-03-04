@@ -30,7 +30,6 @@
   * [Hold Liquidity / Migrate](point-reward-program/point-activity/hold-liquidity-migrate.md)
   * [Swap](point-reward-program/point-activity/swap.md)
   * [Borrow](point-reward-program/point-activity/borrow.md)
-  * [Referral](point-reward-program/point-activity/referral.md)
 * [Invite Friend](point-reward-program/invite-friend.md)
 * [Claim Point](point-reward-program/claim-point.md)
 * [Buy Point](point-reward-program/buy-point.md)
