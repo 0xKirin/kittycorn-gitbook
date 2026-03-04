@@ -14,6 +14,7 @@
 * [Trading](features/trading/README.md)
   * [Swap](features/trading/swap.md)
   * [Add / Remove Liquidity](features/trading/add-liquidity-remove-migrate.md)
+  * [Migrate](features/trading/migrate.md)
 * [Lending & Borrowing](features/lending-and-borrowing/README.md)
   * [Kittycorn Bank](features/lending-and-borrowing/kittycorn-bank.md)
   * [Deposit / Withdraw Collateral](features/lending-and-borrowing/deposit-withdraw-collateral.md)
